@@ -8,6 +8,8 @@ section: doc
 
 This tutorial shows you how to use Jenkins to orchestrate building a simple Java application with [Maven](https://maven.apache.org).
 
+Adding another sentence.
+
 If you are a Java developer who uses Maven and who is new to CI/CD concepts, or
 you might be familiar with these concepts but don't know how to implement
 building your application using Jenkins, then this tutorial is for you.
